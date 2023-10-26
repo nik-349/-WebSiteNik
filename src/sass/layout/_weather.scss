@@ -4,9 +4,10 @@
 .background__body {
     width: 100%;
     height: auto;
-    background-color: #000000;
+    // background-color: #000000;
     // background-image: url('/images/backgroud.jpg');
-    background-repeat: repeat;
+    background-image: url('/images/aldain-austria-desktop.jpg');
+    background-repeat: no-repeat;
     background-size: cover;
 
     @media screen and (min-width: 768px) {
